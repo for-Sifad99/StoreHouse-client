@@ -8,6 +8,7 @@ export default function Home() {
                 <h1>Store House</h1>
                 <div id="development">I AM DEVELOPMENT</div>
                 <div id='sifad' className='mt-10 text-4xl font-bold'>MD. SIFAD ISLAM</div>
+                <div id='hasib' className='mt-10 text-4xl font-bold'>MD. HASIB ISLAM</div>
             </main>
         </div>
     );

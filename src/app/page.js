@@ -9,6 +9,9 @@ export default function Home() {
                 <div id='sifad' className='text-5xl text-blue-400 font-bold'>
                   <h3>MD. SIFAD ISLAM</h3>
                 </div>
+                 <div id='hasib' className='text-5xl text-blue-400 font-bold'>
+                  <h3>MD. HASIB ISLAM</h3>
+                </div>
             </main>
         </div>
     );

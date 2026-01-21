@@ -6,6 +6,7 @@ export default function Home() {
             <main className="min-h-screen w-full flex-col text-7xl font-extrabold tracking-tighter py-32 px-16">
                 <h1>Hello Welcome</h1>
                 <h1>Store House</h1>
+                <div id="development">I AM DEVELOPMENT</div>
             </main>
         </div>
     );

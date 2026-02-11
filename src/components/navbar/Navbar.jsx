@@ -11,7 +11,7 @@ function Navbar() {
 
     return (
         <div className="w-full h-full">
-            <nav className="flex items-center justify-between text-sm font-medium uppercase py-9 px-28">
+            <nav className="flex items-center justify-between text-sm font-medium uppercase py-7 px-28">
                 {/* logo */}
                 <div className="w-30">
                     <Image

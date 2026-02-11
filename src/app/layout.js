@@ -1,6 +1,6 @@
 import { Geist, Geist_Mono, Catamaran } from 'next/font/google';
 import './globals.css';
-import Navbar from './components/navbar/Navbar';
+import Navbar from '../components/navbar/Navbar.jsx';
 
 const geistSans = Geist({
     subsets: ['latin'],
